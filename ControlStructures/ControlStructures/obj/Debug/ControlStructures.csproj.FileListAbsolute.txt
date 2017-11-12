@@ -1,0 +1,7 @@
+C:\Users\S528130\source\repos\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe.config
+C:\Users\S528130\source\repos\ControlStructures\ControlStructures\bin\Debug\ControlStructures.exe
+C:\Users\S528130\source\repos\ControlStructures\ControlStructures\bin\Debug\ControlStructures.pdb
+C:\Users\S528130\source\repos\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csprojResolveAssemblyReference.cache
+C:\Users\S528130\source\repos\ControlStructures\ControlStructures\obj\Debug\ControlStructures.csproj.CoreCompileInputs.cache
+C:\Users\S528130\source\repos\ControlStructures\ControlStructures\obj\Debug\ControlStructures.exe
+C:\Users\S528130\source\repos\ControlStructures\ControlStructures\obj\Debug\ControlStructures.pdb
